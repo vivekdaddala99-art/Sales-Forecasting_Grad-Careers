@@ -2,7 +2,7 @@
 
 🗂️ Dataset
 
-Source: Grad Careers internal sales data
+Source: Grad Careers internal sales data.
 Scope: Customer transactions and service uptake across Australian states and territories
 Key Features: Service type, state/geography, customer participation metrics, sales values
 
